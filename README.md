@@ -21,15 +21,15 @@ The course content is split into four sections, with each taking on topics that 
 To fully benefit from the coverage included in this course, you will need:<br/>
 If you are C# developer with good grips on Unity, this video will take your UI development skills to the next level, boosting up your confidence to build powerful interfaces to improve your user experience.		
 ### Technical Requirements
-This course has the following software requirements:<br/>
-OS: Windows, Linux
-Processor: 3.2 GHz
-Memory: 4 GB
-Storage: 500 GB
+<UL>
+<LI>OS: Windows, Linux</LI>
+<LI>Processor: 3.2 GHz</LI>
+<LI>Memory: 4 GB</LI>
+<LI>Storage: 500 GB</LI>
 
-Software Requirements
-Operating system: Linux, Windows or Mac
-Browser: Chrome Latest 
+### Software Requirements
+<LI>Operating system: Linux, Windows or Mac</LI>
+<LI>Browser: Chrome Latest</LI></UL> 
 
 
 ## Related Products
